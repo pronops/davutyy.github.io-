@@ -747,3 +747,7 @@
   </script>
 </body>
 </html>
+<a href="/tsk-yapay-zeka.html" target="_blank" rel="noopener">
+  Ayrıntılı Çözüm Sayfası
+</a>
+
